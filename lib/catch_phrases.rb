@@ -13,6 +13,6 @@ def link
 end
 def any_pharse*phrase
   puts phrase
-
+end
 
 
