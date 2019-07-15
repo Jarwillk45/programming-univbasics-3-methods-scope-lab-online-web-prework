@@ -12,7 +12,6 @@ def link
   puts phrase
 end
 def any_pharse(phrase)
-  puts phrase
 end  
 
 
